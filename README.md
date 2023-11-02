@@ -3,4 +3,4 @@
 
 Esta é uma plataforma de gestão, monitoramento e acompanhamento de projetos!
 
-<img src="Solucoes.png">
+<img src="Solucoes.png" alt="">
