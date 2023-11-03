@@ -4,4 +4,4 @@
 
 <img src="Solucoes.png" >
 
-<img src="v1.svg">
+<h3 align="center"> <img src="v1.svg"> </h3>
